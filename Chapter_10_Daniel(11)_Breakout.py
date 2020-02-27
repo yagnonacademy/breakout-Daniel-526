@@ -244,3 +244,8 @@ def main():
 
 main()
 
+# Good job.  The display is very aesthetically pleasing and it works.
+# Your screen variable should not be global - it should be passed to your
+# functions.
+# Score: 100
+
